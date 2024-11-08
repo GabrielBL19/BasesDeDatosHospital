@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.exe
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.deps.json
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.runtimeconfig.json
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.pdb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form1.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfo.vb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\refint\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.pdb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\ref\Hospital.dll
