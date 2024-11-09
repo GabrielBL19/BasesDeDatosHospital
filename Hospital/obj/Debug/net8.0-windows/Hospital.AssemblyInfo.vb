@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Hospital"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fd852a23a63fc85b7fb22ba075906dd9b7c16e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d2562fcc0c8004824b0c6ac535fbacea17c7f80"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Hospital"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Hospital"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

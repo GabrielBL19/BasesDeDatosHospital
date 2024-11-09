@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\funcionesgenerales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\funcionesgenerales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\services\\funcionesgenerales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\services\\funcionesgenerales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\models\\c_empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\models\\c_empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|c:\\users\\donal\\desktop\\practicas js\\basesdedatoshospital\\hospital\\models\\c_pesona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\models\\c_pesona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\hospital.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\hospital.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\hospital.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\hospital.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|solutionrelative:hospital\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57F96352-5898-4A20-AE00-9FD7ACB517CB}|Hospital\\Hospital.vbproj|C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\hospital\\form6.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,105 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "funcionesGenerales.vb",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\funcionesGenerales.vb",
-              "RelativeDocumentMoniker": "Hospital\\funcionesGenerales.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\funcionesGenerales.vb",
-              "RelativeToolTip": "Hospital\\funcionesGenerales.vb",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Services\\funcionesGenerales.vb",
+              "RelativeDocumentMoniker": "Hospital\\Services\\funcionesGenerales.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Services\\funcionesGenerales.vb",
+              "RelativeToolTip": "Hospital\\Services\\funcionesGenerales.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T04:00:16.836Z",
+              "WhenOpened": "2024-11-09T16:44:25.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form7.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form7.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form7.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form7.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form7.vb [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form5.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form5.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form5.vb",
+              "RelativeToolTip": "Hospital\\Form5.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:30:03.87Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form6.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form6.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form6.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:30:01.893Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form3.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form3.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form3.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form3.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:29:54.049Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T16:10:08.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form4.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form4.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form4.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form4.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form4.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:29:52.424Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form1.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form1.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form1.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:29:15.906Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form6.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.Designer.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form6.Designer.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.Designer.vb",
-              "RelativeToolTip": "Hospital\\Form6.Designer.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:31:47.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form9.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form9.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form9.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form9.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form9.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:32:17.554Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Form5.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form5.vb",
               "RelativeDocumentMoniker": "Hospital\\Form5.vb",
@@ -176,31 +108,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form2.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form2.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form2.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form2.vb [Dise\u00F1o]",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form1.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form1.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:29:30.355Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form10.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form10.vb",
-              "RelativeDocumentMoniker": "Hospital\\Form10.vb",
-              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form10.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Form10.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-09T03:29:03.729Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T03:29:15.906Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Form6.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form6.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form6.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:30:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form7.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form7.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form7.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form7.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:30:03.87Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Hospital",
               "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Hospital.vbproj",
               "RelativeDocumentMoniker": "Hospital\\Hospital.vbproj",
@@ -208,6 +150,98 @@
               "RelativeToolTip": "Hospital\\Hospital.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
               "WhenOpened": "2024-11-09T03:25:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form2.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form2.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:29:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form6.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.Designer.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form6.Designer.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form6.Designer.vb",
+              "RelativeToolTip": "Hospital\\Form6.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:31:47.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form9.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form9.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form9.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form9.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form9.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:32:17.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form10.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form10.vb",
+              "RelativeDocumentMoniker": "Hospital\\Form10.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Form10.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Form10.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T03:29:03.729Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "de1b0132-852f-4423-8eca-20c6504044fd",
+        "Display": 1,
+        "X": -5,
+        "Y": 294,
+        "Width": 1001,
+        "Height": 526,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C_pesona.vb",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Models\\C_pesona.vb",
+              "RelativeDocumentMoniker": "Hospital\\Models\\C_pesona.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Models\\C_pesona.vb",
+              "RelativeToolTip": "Hospital\\Models\\C_pesona.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T16:35:38.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_empleado.vb",
+              "DocumentMoniker": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Models\\C_empleado.vb",
+              "RelativeDocumentMoniker": "Hospital\\Models\\C_empleado.vb",
+              "ToolTip": "C:\\Users\\donal\\Desktop\\Practicas JS\\BasesDeDatosHospital\\Hospital\\Models\\C_empleado.vb",
+              "RelativeToolTip": "Hospital\\Models\\C_empleado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-09T16:36:05.505Z",
               "EditorCaption": ""
             }
           ]
