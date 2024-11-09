@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form4
+Partial Class FormularioEnfermeros
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,6 +22,7 @@ Partial Class Form4
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormularioEnfermeros))
         btnElimEnf = New Button()
         btnModificarEnf = New Button()
         btnAgregarEnf = New Button()
@@ -67,29 +68,38 @@ Partial Class Form4
         ' 
         ' btnElimEnf
         ' 
-        btnElimEnf.Location = New Point(959, 387)
+        btnElimEnf.Image = CType(resources.GetObject("btnElimEnf.Image"), Image)
+        btnElimEnf.ImageAlign = ContentAlignment.MiddleRight
+        btnElimEnf.Location = New Point(933, 374)
         btnElimEnf.Name = "btnElimEnf"
-        btnElimEnf.Size = New Size(94, 29)
+        btnElimEnf.Size = New Size(96, 42)
         btnElimEnf.TabIndex = 11
         btnElimEnf.Text = "Eliminar"
+        btnElimEnf.TextAlign = ContentAlignment.MiddleLeft
         btnElimEnf.UseVisualStyleBackColor = True
         ' 
         ' btnModificarEnf
         ' 
-        btnModificarEnf.Location = New Point(803, 387)
+        btnModificarEnf.Image = CType(resources.GetObject("btnModificarEnf.Image"), Image)
+        btnModificarEnf.ImageAlign = ContentAlignment.MiddleRight
+        btnModificarEnf.Location = New Point(801, 374)
         btnModificarEnf.Name = "btnModificarEnf"
-        btnModificarEnf.Size = New Size(94, 29)
+        btnModificarEnf.Size = New Size(106, 42)
         btnModificarEnf.TabIndex = 10
         btnModificarEnf.Text = "Actualizar"
+        btnModificarEnf.TextAlign = ContentAlignment.MiddleLeft
         btnModificarEnf.UseVisualStyleBackColor = True
         ' 
         ' btnAgregarEnf
         ' 
-        btnAgregarEnf.Location = New Point(656, 387)
+        btnAgregarEnf.Image = CType(resources.GetObject("btnAgregarEnf.Image"), Image)
+        btnAgregarEnf.ImageAlign = ContentAlignment.MiddleRight
+        btnAgregarEnf.Location = New Point(682, 374)
         btnAgregarEnf.Name = "btnAgregarEnf"
-        btnAgregarEnf.Size = New Size(94, 29)
+        btnAgregarEnf.Size = New Size(93, 42)
         btnAgregarEnf.TabIndex = 9
         btnAgregarEnf.Text = "Agregar"
+        btnAgregarEnf.TextAlign = ContentAlignment.MiddleLeft
         btnAgregarEnf.UseVisualStyleBackColor = True
         ' 
         ' grpDatosProfEnf
@@ -416,7 +426,7 @@ Partial Class Form4
         lblNombFormEnf.TabIndex = 6
         lblNombFormEnf.Text = "Formulario Enfermeros"
         ' 
-        ' Form4
+        ' FormularioEnfermeros
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
@@ -427,8 +437,8 @@ Partial Class Form4
         Controls.Add(grpDatosProfEnf)
         Controls.Add(grpDatosEnf)
         Controls.Add(lblNombFormEnf)
-        Name = "Form4"
-        Text = "Form4"
+        Name = "FormularioEnfermeros"
+        Text = "Enfermeros"
         grpDatosProfEnf.ResumeLayout(False)
         grpDatosProfEnf.PerformLayout()
         grpEstadoEnf.ResumeLayout(False)

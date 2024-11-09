@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form5
+Partial Class FormularioEmpleados
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,10 +22,13 @@ Partial Class Form5
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormularioEmpleados))
         btnElimEmp = New Button()
         btnModificarEmp = New Button()
         btnAgregarEmp = New Button()
         grpDatosProfEmp = New GroupBox()
+        cbxCargoEmp = New ComboBox()
+        lblCargoEmp = New Label()
         grpEstadoEmp = New GroupBox()
         rdbInactivoEmp = New RadioButton()
         rdbActivoEmp = New RadioButton()
@@ -55,8 +58,6 @@ Partial Class Form5
         mskIdentEmp = New MaskedTextBox()
         lblIdentEmp = New Label()
         lblNombFormEmp = New Label()
-        lblCargoEmp = New Label()
-        cbxCargoEmp = New ComboBox()
         grpDatosProfEmp.SuspendLayout()
         grpEstadoEmp.SuspendLayout()
         grpDatosEnf.SuspendLayout()
@@ -65,29 +66,38 @@ Partial Class Form5
         ' 
         ' btnElimEmp
         ' 
-        btnElimEmp.Location = New Point(939, 356)
+        btnElimEmp.Image = CType(resources.GetObject("btnElimEmp.Image"), Image)
+        btnElimEmp.ImageAlign = ContentAlignment.MiddleRight
+        btnElimEmp.Location = New Point(875, 357)
         btnElimEmp.Name = "btnElimEmp"
-        btnElimEmp.Size = New Size(94, 29)
+        btnElimEmp.Size = New Size(95, 41)
         btnElimEmp.TabIndex = 17
         btnElimEmp.Text = "Eliminar"
+        btnElimEmp.TextAlign = ContentAlignment.MiddleLeft
         btnElimEmp.UseVisualStyleBackColor = True
         ' 
         ' btnModificarEmp
         ' 
-        btnModificarEmp.Location = New Point(787, 355)
+        btnModificarEmp.Image = CType(resources.GetObject("btnModificarEmp.Image"), Image)
+        btnModificarEmp.ImageAlign = ContentAlignment.MiddleRight
+        btnModificarEmp.Location = New Point(752, 357)
         btnModificarEmp.Name = "btnModificarEmp"
-        btnModificarEmp.Size = New Size(94, 29)
+        btnModificarEmp.Size = New Size(105, 41)
         btnModificarEmp.TabIndex = 16
         btnModificarEmp.Text = "Actualizar"
+        btnModificarEmp.TextAlign = ContentAlignment.MiddleLeft
         btnModificarEmp.UseVisualStyleBackColor = True
         ' 
         ' btnAgregarEmp
         ' 
-        btnAgregarEmp.Location = New Point(617, 355)
+        btnAgregarEmp.Image = CType(resources.GetObject("btnAgregarEmp.Image"), Image)
+        btnAgregarEmp.ImageAlign = ContentAlignment.MiddleRight
+        btnAgregarEmp.Location = New Point(642, 357)
         btnAgregarEmp.Name = "btnAgregarEmp"
-        btnAgregarEmp.Size = New Size(94, 29)
+        btnAgregarEmp.Size = New Size(94, 41)
         btnAgregarEmp.TabIndex = 15
         btnAgregarEmp.Text = "Agregar"
+        btnAgregarEmp.TextAlign = ContentAlignment.MiddleLeft
         btnAgregarEmp.UseVisualStyleBackColor = True
         ' 
         ' grpDatosProfEmp
@@ -103,6 +113,24 @@ Partial Class Form5
         grpDatosProfEmp.TabIndex = 14
         grpDatosProfEmp.TabStop = False
         grpDatosProfEmp.Text = "Datos Profesionales"
+        ' 
+        ' cbxCargoEmp
+        ' 
+        cbxCargoEmp.FormattingEnabled = True
+        cbxCargoEmp.Items.AddRange(New Object() {"Director del Hospital", "Subdirector Médico", "Gerente de RRHH", "Secretario (a)", "Recepcionista"})
+        cbxCargoEmp.Location = New Point(64, 26)
+        cbxCargoEmp.Name = "cbxCargoEmp"
+        cbxCargoEmp.Size = New Size(151, 28)
+        cbxCargoEmp.TabIndex = 8
+        ' 
+        ' lblCargoEmp
+        ' 
+        lblCargoEmp.AutoSize = True
+        lblCargoEmp.Location = New Point(6, 32)
+        lblCargoEmp.Name = "lblCargoEmp"
+        lblCargoEmp.Size = New Size(52, 20)
+        lblCargoEmp.TabIndex = 7
+        lblCargoEmp.Text = "Cargo:"
         ' 
         ' grpEstadoEmp
         ' 
@@ -380,25 +408,7 @@ Partial Class Form5
         lblNombFormEmp.TabIndex = 12
         lblNombFormEmp.Text = "Formulario Empleados"
         ' 
-        ' lblCargoEmp
-        ' 
-        lblCargoEmp.AutoSize = True
-        lblCargoEmp.Location = New Point(6, 32)
-        lblCargoEmp.Name = "lblCargoEmp"
-        lblCargoEmp.Size = New Size(52, 20)
-        lblCargoEmp.TabIndex = 7
-        lblCargoEmp.Text = "Cargo:"
-        ' 
-        ' cbxCargoEmp
-        ' 
-        cbxCargoEmp.FormattingEnabled = True
-        cbxCargoEmp.Items.AddRange(New Object() {"Director del Hospital", "Subdirector Médico", "Gerente de RRHH", "Secretario (a)", "Recepcionista"})
-        cbxCargoEmp.Location = New Point(64, 26)
-        cbxCargoEmp.Name = "cbxCargoEmp"
-        cbxCargoEmp.Size = New Size(151, 28)
-        cbxCargoEmp.TabIndex = 8
-        ' 
-        ' Form5
+        ' FormularioEmpleados
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
@@ -409,8 +419,8 @@ Partial Class Form5
         Controls.Add(grpDatosProfEmp)
         Controls.Add(grpDatosEnf)
         Controls.Add(lblNombFormEmp)
-        Name = "Form5"
-        Text = "Form5"
+        Name = "FormularioEmpleados"
+        Text = "Empleados"
         grpDatosProfEmp.ResumeLayout(False)
         grpDatosProfEmp.PerformLayout()
         grpEstadoEmp.ResumeLayout(False)

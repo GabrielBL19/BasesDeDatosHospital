@@ -1,3 +1,3 @@
-﻿Public Class Form6
+﻿Public Class FormularioMobiliario
 
 End Class

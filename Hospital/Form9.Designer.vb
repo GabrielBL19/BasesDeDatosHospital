@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form9
+Partial Class FormularioFarmacia
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,11 +22,16 @@ Partial Class Form9
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormularioFarmacia))
         dtgFarmaco = New DataGridView()
         btnEliminarFarmaco = New Button()
         btnModificarFarmaco = New Button()
         btnAgregarFarmaco = New Button()
         grpDatosUtensilio = New GroupBox()
+        dtpCaducidadFarmaco = New DateTimePicker()
+        lblCaducidadFarmaco = New Label()
+        mskLoteFarmaco = New MaskedTextBox()
+        lblLoteFarmaco = New Label()
         cbxCatFarmaco = New ComboBox()
         btnBuscarFarmaco = New Button()
         lblCatFarmaco = New Label()
@@ -39,10 +44,8 @@ Partial Class Form9
         txtIdFarmaco = New TextBox()
         lblIdUtensilio = New Label()
         lblNombFormFarmacia = New Label()
-        lblLoteFarmaco = New Label()
-        mskLoteFarmaco = New MaskedTextBox()
-        lblCaducidadFarmaco = New Label()
-        dtpCaducidadFarmaco = New DateTimePicker()
+        lblMarcaFarmaco = New Label()
+        cbxMarcaFarmaco = New ComboBox()
         CType(dtgFarmaco, ComponentModel.ISupportInitialize).BeginInit()
         grpDatosUtensilio.SuspendLayout()
         SuspendLayout()
@@ -58,33 +61,44 @@ Partial Class Form9
         ' 
         ' btnEliminarFarmaco
         ' 
-        btnEliminarFarmaco.Location = New Point(326, 390)
+        btnEliminarFarmaco.Image = CType(resources.GetObject("btnEliminarFarmaco.Image"), Image)
+        btnEliminarFarmaco.ImageAlign = ContentAlignment.MiddleRight
+        btnEliminarFarmaco.Location = New Point(347, 408)
         btnEliminarFarmaco.Name = "btnEliminarFarmaco"
-        btnEliminarFarmaco.Size = New Size(94, 29)
+        btnEliminarFarmaco.Size = New Size(94, 44)
         btnEliminarFarmaco.TabIndex = 15
         btnEliminarFarmaco.Text = "Eliminar"
+        btnEliminarFarmaco.TextAlign = ContentAlignment.MiddleLeft
         btnEliminarFarmaco.UseVisualStyleBackColor = True
         ' 
         ' btnModificarFarmaco
         ' 
-        btnModificarFarmaco.Location = New Point(178, 390)
+        btnModificarFarmaco.Image = CType(resources.GetObject("btnModificarFarmaco.Image"), Image)
+        btnModificarFarmaco.ImageAlign = ContentAlignment.MiddleRight
+        btnModificarFarmaco.Location = New Point(200, 408)
         btnModificarFarmaco.Name = "btnModificarFarmaco"
-        btnModificarFarmaco.Size = New Size(94, 29)
+        btnModificarFarmaco.Size = New Size(104, 44)
         btnModificarFarmaco.TabIndex = 14
         btnModificarFarmaco.Text = "Modificar"
+        btnModificarFarmaco.TextAlign = ContentAlignment.MiddleLeft
         btnModificarFarmaco.UseVisualStyleBackColor = True
         ' 
         ' btnAgregarFarmaco
         ' 
-        btnAgregarFarmaco.Location = New Point(27, 390)
+        btnAgregarFarmaco.Image = CType(resources.GetObject("btnAgregarFarmaco.Image"), Image)
+        btnAgregarFarmaco.ImageAlign = ContentAlignment.MiddleRight
+        btnAgregarFarmaco.Location = New Point(45, 408)
         btnAgregarFarmaco.Name = "btnAgregarFarmaco"
-        btnAgregarFarmaco.Size = New Size(94, 29)
+        btnAgregarFarmaco.Size = New Size(94, 44)
         btnAgregarFarmaco.TabIndex = 13
         btnAgregarFarmaco.Text = "Agregar"
+        btnAgregarFarmaco.TextAlign = ContentAlignment.MiddleLeft
         btnAgregarFarmaco.UseVisualStyleBackColor = True
         ' 
         ' grpDatosUtensilio
         ' 
+        grpDatosUtensilio.Controls.Add(cbxMarcaFarmaco)
+        grpDatosUtensilio.Controls.Add(lblMarcaFarmaco)
         grpDatosUtensilio.Controls.Add(dtpCaducidadFarmaco)
         grpDatosUtensilio.Controls.Add(lblCaducidadFarmaco)
         grpDatosUtensilio.Controls.Add(mskLoteFarmaco)
@@ -102,10 +116,42 @@ Partial Class Form9
         grpDatosUtensilio.Controls.Add(lblIdUtensilio)
         grpDatosUtensilio.Location = New Point(21, 81)
         grpDatosUtensilio.Name = "grpDatosUtensilio"
-        grpDatosUtensilio.Size = New Size(432, 288)
+        grpDatosUtensilio.Size = New Size(432, 321)
         grpDatosUtensilio.TabIndex = 12
         grpDatosUtensilio.TabStop = False
         grpDatosUtensilio.Text = "Información de Mobiliario"
+        ' 
+        ' dtpCaducidadFarmaco
+        ' 
+        dtpCaducidadFarmaco.Location = New Point(95, 278)
+        dtpCaducidadFarmaco.Name = "dtpCaducidadFarmaco"
+        dtpCaducidadFarmaco.Size = New Size(250, 27)
+        dtpCaducidadFarmaco.TabIndex = 16
+        ' 
+        ' lblCaducidadFarmaco
+        ' 
+        lblCaducidadFarmaco.AutoSize = True
+        lblCaducidadFarmaco.Location = New Point(6, 285)
+        lblCaducidadFarmaco.Name = "lblCaducidadFarmaco"
+        lblCaducidadFarmaco.Size = New Size(83, 20)
+        lblCaducidadFarmaco.TabIndex = 15
+        lblCaducidadFarmaco.Text = "Caducidad:"
+        ' 
+        ' mskLoteFarmaco
+        ' 
+        mskLoteFarmaco.Location = New Point(53, 239)
+        mskLoteFarmaco.Name = "mskLoteFarmaco"
+        mskLoteFarmaco.Size = New Size(184, 27)
+        mskLoteFarmaco.TabIndex = 14
+        ' 
+        ' lblLoteFarmaco
+        ' 
+        lblLoteFarmaco.AutoSize = True
+        lblLoteFarmaco.Location = New Point(6, 246)
+        lblLoteFarmaco.Name = "lblLoteFarmaco"
+        lblLoteFarmaco.Size = New Size(41, 20)
+        lblLoteFarmaco.TabIndex = 13
+        lblLoteFarmaco.Text = "Lote:"
         ' 
         ' cbxCatFarmaco
         ' 
@@ -135,7 +181,7 @@ Partial Class Form9
         ' 
         ' txtDescripFarmaco
         ' 
-        txtDescripFarmaco.Location = New Point(102, 179)
+        txtDescripFarmaco.Location = New Point(102, 200)
         txtDescripFarmaco.Name = "txtDescripFarmaco"
         txtDescripFarmaco.Size = New Size(181, 27)
         txtDescripFarmaco.TabIndex = 2
@@ -143,7 +189,7 @@ Partial Class Form9
         ' lblDescripFarmaco
         ' 
         lblDescripFarmaco.AutoSize = True
-        lblDescripFarmaco.Location = New Point(6, 186)
+        lblDescripFarmaco.Location = New Point(6, 207)
         lblDescripFarmaco.Name = "lblDescripFarmaco"
         lblDescripFarmaco.Size = New Size(90, 20)
         lblDescripFarmaco.TabIndex = 2
@@ -151,7 +197,7 @@ Partial Class Form9
         ' 
         ' txtPrecioFarmaco
         ' 
-        txtPrecioFarmaco.Location = New Point(65, 139)
+        txtPrecioFarmaco.Location = New Point(65, 167)
         txtPrecioFarmaco.Name = "txtPrecioFarmaco"
         txtPrecioFarmaco.Size = New Size(186, 27)
         txtPrecioFarmaco.TabIndex = 5
@@ -159,7 +205,7 @@ Partial Class Form9
         ' lblPrecioFarmaco
         ' 
         lblPrecioFarmaco.AutoSize = True
-        lblPrecioFarmaco.Location = New Point(6, 146)
+        lblPrecioFarmaco.Location = New Point(6, 175)
         lblPrecioFarmaco.Name = "lblPrecioFarmaco"
         lblPrecioFarmaco.Size = New Size(53, 20)
         lblPrecioFarmaco.TabIndex = 4
@@ -207,51 +253,36 @@ Partial Class Form9
         lblNombFormFarmacia.TabIndex = 11
         lblNombFormFarmacia.Text = "Formulario de Farmacia"
         ' 
-        ' lblLoteFarmaco
+        ' lblMarcaFarmaco
         ' 
-        lblLoteFarmaco.AutoSize = True
-        lblLoteFarmaco.Location = New Point(6, 220)
-        lblLoteFarmaco.Name = "lblLoteFarmaco"
-        lblLoteFarmaco.Size = New Size(41, 20)
-        lblLoteFarmaco.TabIndex = 13
-        lblLoteFarmaco.Text = "Lote:"
+        lblMarcaFarmaco.AutoSize = True
+        lblMarcaFarmaco.Location = New Point(6, 142)
+        lblMarcaFarmaco.Name = "lblMarcaFarmaco"
+        lblMarcaFarmaco.Size = New Size(53, 20)
+        lblMarcaFarmaco.TabIndex = 17
+        lblMarcaFarmaco.Text = "Marca:"
         ' 
-        ' mskLoteFarmaco
+        ' cbxMarcaFarmaco
         ' 
-        mskLoteFarmaco.Location = New Point(53, 213)
-        mskLoteFarmaco.Name = "mskLoteFarmaco"
-        mskLoteFarmaco.Size = New Size(184, 27)
-        mskLoteFarmaco.TabIndex = 14
+        cbxMarcaFarmaco.FormattingEnabled = True
+        cbxMarcaFarmaco.Location = New Point(65, 134)
+        cbxMarcaFarmaco.Name = "cbxMarcaFarmaco"
+        cbxMarcaFarmaco.Size = New Size(186, 28)
+        cbxMarcaFarmaco.TabIndex = 18
         ' 
-        ' lblCaducidadFarmaco
-        ' 
-        lblCaducidadFarmaco.AutoSize = True
-        lblCaducidadFarmaco.Location = New Point(6, 252)
-        lblCaducidadFarmaco.Name = "lblCaducidadFarmaco"
-        lblCaducidadFarmaco.Size = New Size(83, 20)
-        lblCaducidadFarmaco.TabIndex = 15
-        lblCaducidadFarmaco.Text = "Caducidad:"
-        ' 
-        ' dtpCaducidadFarmaco
-        ' 
-        dtpCaducidadFarmaco.Location = New Point(89, 245)
-        dtpCaducidadFarmaco.Name = "dtpCaducidadFarmaco"
-        dtpCaducidadFarmaco.Size = New Size(250, 27)
-        dtpCaducidadFarmaco.TabIndex = 16
-        ' 
-        ' Form9
+        ' FormularioFarmacia
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1336, 460)
+        ClientSize = New Size(1336, 505)
         Controls.Add(dtgFarmaco)
         Controls.Add(btnEliminarFarmaco)
         Controls.Add(btnModificarFarmaco)
         Controls.Add(btnAgregarFarmaco)
         Controls.Add(grpDatosUtensilio)
         Controls.Add(lblNombFormFarmacia)
-        Name = "Form9"
-        Text = "Form9"
+        Name = "FormularioFarmacia"
+        Text = "Farmacia"
         CType(dtgFarmaco, ComponentModel.ISupportInitialize).EndInit()
         grpDatosUtensilio.ResumeLayout(False)
         grpDatosUtensilio.PerformLayout()
@@ -280,4 +311,6 @@ Partial Class Form9
     Friend WithEvents dtpCaducidadFarmaco As DateTimePicker
     Friend WithEvents lblCaducidadFarmaco As Label
     Friend WithEvents mskLoteFarmaco As MaskedTextBox
+    Friend WithEvents cbxMarcaFarmaco As ComboBox
+    Friend WithEvents lblMarcaFarmaco As Label
 End Class

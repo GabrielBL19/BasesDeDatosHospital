@@ -1,4 +1,4 @@
-﻿Public Class Form4
+﻿Public Class FormularioEnfermeros
     Private Sub grpDatosDoc_Enter(sender As Object, e As EventArgs) Handles grpDatosEnf.Enter
 
     End Sub
