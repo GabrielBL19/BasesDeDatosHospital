@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class FormularioEmpleados
+Partial Class Form5
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,7 +22,6 @@ Partial Class FormularioEmpleados
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormularioEmpleados))
         btnElimEmp = New Button()
         btnModificarEmp = New Button()
         btnAgregarEmp = New Button()
@@ -53,7 +52,7 @@ Partial Class FormularioEmpleados
         lblFechaNacEmp = New Label()
         txtApeEmp = New TextBox()
         lblApeEmp = New Label()
-        TxNombEmp = New TextBox()
+        txtNombEmp = New TextBox()
         lblNombEmp = New Label()
         mskIdentEmp = New MaskedTextBox()
         lblIdentEmp = New Label()
@@ -66,38 +65,29 @@ Partial Class FormularioEmpleados
         ' 
         ' btnElimEmp
         ' 
-        btnElimEmp.Image = CType(resources.GetObject("btnElimEmp.Image"), Image)
-        btnElimEmp.ImageAlign = ContentAlignment.MiddleRight
-        btnElimEmp.Location = New Point(875, 357)
+        btnElimEmp.Location = New Point(939, 356)
         btnElimEmp.Name = "btnElimEmp"
-        btnElimEmp.Size = New Size(95, 41)
+        btnElimEmp.Size = New Size(94, 29)
         btnElimEmp.TabIndex = 17
         btnElimEmp.Text = "Eliminar"
-        btnElimEmp.TextAlign = ContentAlignment.MiddleLeft
         btnElimEmp.UseVisualStyleBackColor = True
         ' 
         ' btnModificarEmp
         ' 
-        btnModificarEmp.Image = CType(resources.GetObject("btnModificarEmp.Image"), Image)
-        btnModificarEmp.ImageAlign = ContentAlignment.MiddleRight
-        btnModificarEmp.Location = New Point(752, 357)
+        btnModificarEmp.Location = New Point(787, 355)
         btnModificarEmp.Name = "btnModificarEmp"
-        btnModificarEmp.Size = New Size(105, 41)
+        btnModificarEmp.Size = New Size(94, 29)
         btnModificarEmp.TabIndex = 16
         btnModificarEmp.Text = "Actualizar"
-        btnModificarEmp.TextAlign = ContentAlignment.MiddleLeft
         btnModificarEmp.UseVisualStyleBackColor = True
         ' 
         ' btnAgregarEmp
         ' 
-        btnAgregarEmp.Image = CType(resources.GetObject("btnAgregarEmp.Image"), Image)
-        btnAgregarEmp.ImageAlign = ContentAlignment.MiddleRight
-        btnAgregarEmp.Location = New Point(642, 357)
+        btnAgregarEmp.Location = New Point(617, 355)
         btnAgregarEmp.Name = "btnAgregarEmp"
-        btnAgregarEmp.Size = New Size(94, 41)
+        btnAgregarEmp.Size = New Size(94, 29)
         btnAgregarEmp.TabIndex = 15
         btnAgregarEmp.Text = "Agregar"
-        btnAgregarEmp.TextAlign = ContentAlignment.MiddleLeft
         btnAgregarEmp.UseVisualStyleBackColor = True
         ' 
         ' grpDatosProfEmp
@@ -199,7 +189,7 @@ Partial Class FormularioEmpleados
         grpDatosEnf.Controls.Add(lblFechaNacEmp)
         grpDatosEnf.Controls.Add(txtApeEmp)
         grpDatosEnf.Controls.Add(lblApeEmp)
-        grpDatosEnf.Controls.Add(TxNombEmp)
+        grpDatosEnf.Controls.Add(txtNombEmp)
         grpDatosEnf.Controls.Add(lblNombEmp)
         grpDatosEnf.Controls.Add(mskIdentEmp)
         grpDatosEnf.Controls.Add(lblIdentEmp)
@@ -366,12 +356,12 @@ Partial Class FormularioEmpleados
         lblApeEmp.TabIndex = 4
         lblApeEmp.Text = "Apellido:"
         ' 
-        ' TxNombEmp
+        ' txtNombEmp
         ' 
-        TxNombEmp.Location = New Point(79, 64)
-        TxNombEmp.Name = "TxNombEmp"
-        TxNombEmp.Size = New Size(201, 27)
-        TxNombEmp.TabIndex = 2
+        txtNombEmp.Location = New Point(79, 64)
+        txtNombEmp.Name = "txtNombEmp"
+        txtNombEmp.Size = New Size(201, 27)
+        txtNombEmp.TabIndex = 2
         ' 
         ' lblNombEmp
         ' 
@@ -408,19 +398,19 @@ Partial Class FormularioEmpleados
         lblNombFormEmp.TabIndex = 12
         lblNombFormEmp.Text = "Formulario Empleados"
         ' 
-        ' FormularioEmpleados
+        ' Form5
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1071, 599)
+        ClientSize = New Size(1090, 606)
         Controls.Add(btnElimEmp)
         Controls.Add(btnModificarEmp)
         Controls.Add(btnAgregarEmp)
         Controls.Add(grpDatosProfEmp)
         Controls.Add(grpDatosEnf)
         Controls.Add(lblNombFormEmp)
-        Name = "FormularioEmpleados"
-        Text = "Empleados"
+        Name = "Form5"
+        Text = "Form5"
         grpDatosProfEmp.ResumeLayout(False)
         grpDatosProfEmp.PerformLayout()
         grpEstadoEmp.ResumeLayout(False)
@@ -461,7 +451,7 @@ Partial Class FormularioEmpleados
     Friend WithEvents lblFechaNacEmp As Label
     Friend WithEvents txtApeEmp As TextBox
     Friend WithEvents lblApeEmp As Label
-    Friend WithEvents TxNombEmp As TextBox
+    Friend WithEvents txtNombEmp As TextBox
     Friend WithEvents lblNombEmp As Label
     Friend WithEvents mskIdentEmp As MaskedTextBox
     Friend WithEvents lblIdentEmp As Label

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.exe
 C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.deps.json
 C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.runtimeconfig.json
@@ -44,3 +45,72 @@ C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\runtimes\
 C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.Up2Date
+=======
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.exe
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.deps.json
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.runtimeconfig.json
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\bin\Debug\net8.0-windows\Hospital.pdb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form1.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfo.vb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\refint\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.pdb
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\ref\Hospital.dll
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.sourcelink.json
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form2.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form3.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form10.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form4.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form5.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form6.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form7.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form8.resources
+C:\Users\gabri\source\repos\Hospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form9.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Hospital.exe
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Hospital.deps.json
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Hospital.runtimeconfig.json
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Hospital.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Hospital.pdb
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.AssemblyReference.cache
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Formulario.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form10.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form2.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form3.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form4.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form5.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form6.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form7.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.Form9.resources
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.GenerateResource.cache
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfoInputs.cache
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.AssemblyInfo.vb
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.sourcelink.json
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.vbproj.Up2Date
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\refint\Hospital.dll
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.pdb
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\Hospital.genruntimeconfig.cache
+C:\Users\donal\Desktop\Practicas JS\BasesDeDatosHospital\Hospital\obj\Debug\net8.0-windows\ref\Hospital.dll
+>>>>>>> 752f2995ce44247c009aecb86e5c36a87dcc7b5f

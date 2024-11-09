@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-16"?>
 <MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MySubMain>true</MySubMain>
@@ -7,4 +8,15 @@
   <EnableVisualStyles>true</EnableVisualStyles>
   <AuthenticationMode>0</AuthenticationMode>
   <SaveMySettingsOnExit>true</SaveMySettingsOnExit>
+=======
+﻿<?xml version="1.0" encoding="utf-16"?>
+<MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MySubMain>true</MySubMain>
+  <MainForm>Form5</MainForm>
+  <SingleInstance>false</SingleInstance>
+  <ShutdownMode>0</ShutdownMode>
+  <EnableVisualStyles>true</EnableVisualStyles>
+  <AuthenticationMode>0</AuthenticationMode>
+  <SaveMySettingsOnExit>true</SaveMySettingsOnExit>
+>>>>>>> 752f2995ce44247c009aecb86e5c36a87dcc7b5f
 </MyApplicationData>
